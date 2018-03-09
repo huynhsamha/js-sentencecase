@@ -3,7 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
 
-JavaScript sentencecase string. Use for both node.js and browser
+JavaScript convert string to Sentence case - Use for both Node.JS and Browser.
 
 
 ## Installation
@@ -89,12 +89,19 @@ console.log(toSentenceCase('123456789')); // => 123456789
 Returns a new string which is sentencecase format of str.
 
 
+## Dependencies
+No dependencies
+
 ## Related
++ [js-convert-case](https://github.com/huynhsamha/js-convert-case)
 + [js-camelcase](https://github.com/huynhsamha/js-camelcase)
 + [js-snakecase](https://github.com/huynhsamha/js-snakecase)
 + [js-pascalcase](https://github.com/huynhsamha/js-pascalcase)
 + [js-dotcase](https://github.com/huynhsamha/js-dotcase)
++ [js-pathcase](https://github.com/huynhsamha/js-pathcase)
 + [js-textcase](https://github.com/huynhsamha/js-textcase)
++ [js-sentencecase](https://github.com/huynhsamha/js-sentencecase)
++ [js-headercase](https://github.com/huynhsamha/js-headercase)
 
 
 [npm-image]: https://img.shields.io/npm/v/js-sentencecase.svg?style=flat
